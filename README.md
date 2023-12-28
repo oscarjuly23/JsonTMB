@@ -13,4 +13,6 @@ El proyecto consiste en desarrollar una aplicación de TMB que realice varias de
 
 ## Estructura:
 El proyecto está organizado en tres paquetes: "Api" (comunicación con la API de TMB), "Model" (almacenamiento de datos) y "Logica" (lógica principal de la aplicación). Se implementaron características adicionales, como validación de datos y capacidad de guardar información de usuarios en un archivo JSON (incompleto).
-
+##
+@authors: Oscar Julian - Josep Montava   
+@date: 18 de Abril 2020  
